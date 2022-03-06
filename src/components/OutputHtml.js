@@ -8,7 +8,6 @@ const OutputHTML = ({html}) => {
     )
 }
 
-
 export default OutputHTML;
 
 
@@ -24,5 +23,4 @@ const Container = styled.span`
     ::-webkit-scrollbar{
         display: none;
     }
-
 `;

@@ -14,9 +14,7 @@ const InputMarkdown = ({setMarkdown}) => {
     )
 }
 
-
 export default InputMarkdown;
-
 
 const InputField = styled.textarea`
     padding:50px;
